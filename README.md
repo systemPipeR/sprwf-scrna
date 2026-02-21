@@ -1,4 +1,4 @@
-## Generic Workflow Template for systemPipeR WMS
+## Basic Single-Cell RNA-Seq Workflow Template for systemPipeR WMS
 
 <p align="right">
   <a href="https://systempipe.org/sprwf-scrna/SPscrna.html">
