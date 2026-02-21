@@ -15,7 +15,7 @@ This is a versioned workflow template for conducting data analyses with the
 [data](https://github.com/systemPipeR/sprwfcmp-data) packs, which are defined
 in [`manifest.yml`](./manifest.yml) and downloaded and installed during the setup process.
 
-Detailed information about this specific `sprwf-new` workflow is available 
+Detailed information about this specific `sprwf-scrna` workflow is available 
 [here](https://systempipe.org/sprwf-scrna/SPscrna.html).
 
 > Note: The data pack includes sample data useful for testing certain workflows. Users who do not require this sample data can skip the download step under the `getData_gh` section below. 
